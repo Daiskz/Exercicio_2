@@ -5,7 +5,7 @@ public class App {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Digite um número: ");
             int numero = sc.nextInt();
-            System.out.println("O número digitado foi: " + numero);
+            System.out.println("O número informado foi: " + numero);
         }
     }
 }
